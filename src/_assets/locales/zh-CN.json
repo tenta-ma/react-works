@@ -1,0 +1,63 @@
+{
+  "login": {
+    "mailaddress": {
+      "label": "邮件地址",
+      "error": {
+        "empty": "字段为必填项"
+      }
+    },
+    "password": {
+      "label": "密码",
+      "error": {
+        "empty": "字段为必填项"
+      }
+    },
+    "rememberMe": {
+      "label": "记住账号"
+    },
+    "button": {
+      "login": "登录",
+      "register": "新注册"
+    },
+    "forgotPassword": "忘记密码",
+    "authentication": {
+      "failure": "用户邮件地址和/或密码无效"
+    }
+  },
+  "register": {
+    "sendmail": {
+      "title": "注册一个帐户",
+      "description": "邮件地址将发送给您以确认您的帐户状态。请输入邮件地址，然后按下按钮。",
+      "label": {
+        "mailaddress": "邮件地址"
+      },
+      "button": {
+        "submit": "提交"
+      }
+    },
+    "complete": {
+      "title": "注册完成",
+      "description": "注册完成\n继续为抵达日本做准备",
+      "button": {
+        "toLogin": "到登录"
+      }
+    }
+  },
+  "terms": {
+    "account": {
+      "title": "注册一个帐户",
+      "description": "zh-cn 以下の利用規約をお読みいただき、同意される方は、最下部のチェックボックスにチェックの上、アカウント登録にお進みください。",
+      "purpose": {
+        "content": "【利用規約】 zh"
+      },
+      "button": {
+        "agree": "同意",
+        "reject": "拒绝"
+      }
+    }
+  },
+  "notfound": {
+    "title": "网页未找到",
+    "description": "请重试操作"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "login": {
+    "mailaddress": {
+      "label": "郵件地址",
+      "error": {
+        "empty": "字段是必需的"
+      }
+    },
+    "password": {
+      "label": "密碼",
+      "error": {
+        "empty": "字段是必需的"
+      }
+    },
+    "rememberMe": {
+      "label": "記住賬號"
+    },
+    "button": {
+      "login": "登錄",
+      "register": "新登記"
+    },
+    "forgotPassword": "忘記密碼",
+    "authentication": {
+      "failure": "用戶郵件地址和/或密碼無效"
+    }
+  },
+  "register": {
+    "sendmail": {
+      "title": "註冊一個帳戶",
+      "description": "郵件地址將發送給您以確認您的帳戶狀態。請輸入郵件地址，然後按下按鈕",
+      "label": {
+        "mailaddress": "郵件地址"
+      },
+      "button": {
+        "submit": "提交"
+      }
+    },
+    "complete": {
+      "title": "註冊完成",
+      "description": "註冊完成\n繼續為抵達日本做準備",
+      "button": {
+        "toLogin": "到登錄"
+      }
+    }
+  },
+
+  "terms": {
+    "account": {
+      "title": "註冊一個帳戶",
+      "description": "zh-tw 以下の利用規約をお読みいただき、同意される方は、最下部のチェックボックスにチェックの上、アカウント登録にお進みください。",
+      "purpose": {
+        "content": "【利用規約】zh"
+      },
+      "button": {
+        "agree": "同意",
+        "reject": "拒絕"
+      }
+    }
+  },
+
+  "notfound": {
+    "title": "網頁未找到",
+    "description": "請重試操作"
+  }
+}

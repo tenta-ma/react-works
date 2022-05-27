@@ -1,0 +1,63 @@
+{
+  "login": {
+    "mailaddress": {
+      "label": "メールアドレス",
+      "error": {
+        "empty": "値を入力してください"
+      }
+    },
+    "password": {
+      "label": "パスワード",
+      "error": {
+        "empty": "値を入力してください"
+      }
+    },
+    "rememberMe": {
+      "label": "ログインしたままにする"
+    },
+    "button": {
+      "login": "ログイン",
+      "register": "新規アカウント作成"
+    },
+    "forgotPassword": "パスワードをお忘れの場合",
+    "authentication": {
+      "failure": "ログインIDかパアワードが違います"
+    }
+  },
+  "register": {
+    "sendmail": {
+      "title": "アカウント登録",
+      "description": "アカウント有無の確認のためメールを送信します。登録するメールアドレスを入力し、送信してください。",
+      "label": {
+        "mailaddress": "メールアドレス"
+      },
+      "button": {
+        "submit": "送信する"
+      }
+    },
+    "complete": {
+      "title": "アカウント登録完了",
+      "description": "アカウント登録が完了しました\n来日準備へお進みください",
+      "button": {
+        "toLogin": "へ ログイン"
+      }
+    }
+  },
+  "terms": {
+    "account": {
+      "title": "アカウント登録",
+      "description": "以下の利用規約をお読みいただき、同意される方は、最下部のチェックボックスにチェックの上、アカウント登録にお進みください。",
+      "purpose": {
+        "content": "【利用規約】"
+      },
+      "button": {
+        "agree": "同意する",
+        "reject": "同意しない"
+      }
+    }
+  },
+  "notfound": {
+    "title": "不正なURLです",
+    "description": "操作をやり直してください"
+  }
+}

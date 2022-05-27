@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "技検サプリ",
+  "name": "技術検証サンプルプロジェクトWebアプリ",
   "icons": [
     {
       "src": "favicon.ico",

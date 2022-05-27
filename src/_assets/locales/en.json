@@ -1,0 +1,50 @@
+{
+  "login": {
+    "mailaddress": {
+      "label": "mail address",
+      "error": {
+        "empty": "this field required."
+      }
+    },
+    "password": {
+      "label": "password",
+      "error": {
+        "empty": "this field required."
+      }
+    },
+    "rememberMe": {
+      "label": "Remember Me"
+    },
+    "button": {
+      "login": "Login",
+      "register": "Register"
+    },
+    "forgotPassword": "forgotten password",
+    "authentication": {
+      "failure": "Either the user mail address and/or password is invalid."
+    }
+  },
+  "register": {
+    "sendmail": {
+      "title": "Register account",
+      "description": "mail address will be sent to you to confirm your account status. Please enter the mail address then push button.",
+      "label": {
+        "mailaddress": "mail address"
+      },
+      "button": {
+        "submit": "Submit"
+      }
+    },
+    "complete": {
+      "title": "Register completed",
+      "description": "Register completed.\nproceed to the preparation for your arrival in Japan.",
+      "button": {
+        "toLogin": "To login"
+      }
+    }
+  },
+  "notfound": {
+    "title": "Page not found",
+    "description": "please retry operations"
+  }
+}
